@@ -12,8 +12,8 @@
     },
     "swan": {
         "baiduboxapp": {
-            "extensionJsVersion": "1.14.1",
-            "swanJsVersion": "3.200.106"
+            "swanJsVersion": "3.200.106",
+            "extensionJsVersion": ""
         }
     }
 }
