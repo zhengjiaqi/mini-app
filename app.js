@@ -11,7 +11,8 @@ App({
 		
     },
     onShow(options) {
-        // do something when show
+		// do something when show
+		
     },
     onHide() {
         // do something when hide
