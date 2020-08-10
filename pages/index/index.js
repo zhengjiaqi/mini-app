@@ -5,7 +5,7 @@
 const app = getApp()
 
 Page({
-    // add2
+    // add4
     data: {
         userInfo: {},
         hasUserInfo: false,
